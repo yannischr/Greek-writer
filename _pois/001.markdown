@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q136506564
-title:  Βασίλης Χουλιαράς
+title: Vasilis Chouliaras  
 ---
 
-Vasilis Chouliaras
+Βασίλης Χουλιαράς
