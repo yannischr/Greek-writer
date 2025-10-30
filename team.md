@@ -6,10 +6,14 @@ permalink: /team/
 
 <h1>Τα μέλη της ομάδας μας</h1>
 
-<ul> 
-<li>Ιωάννης Χρήστου</li>
-<li>Ιωάννης Τσαλαφούτας</li>
-</ul>
+<dl>
+  <ul> 
+    <dt><li>Ιωάννης Χρήστου</li></dt>
+    <dd>inf.dig2414@ionio.gr</dd>
+    <dt><li>Ιωάννης Τσαλαφούτας</li></dt>
+    <dd>inf.dig2411@ionio.gr</dd>
+  </ul>
+</dl>
 ---
 
 
