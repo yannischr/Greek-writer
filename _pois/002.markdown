@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q113041921
-title: Fotini Tsalikoglou
+title: Φωτεινή Τσαλίκογλου
 --- 
 
-Φωτεινή Τσαλίκογλου
+Fotini Tsalikoglou
