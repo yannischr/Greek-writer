@@ -1,7 +1,8 @@
 ---
 layout: poi
 wikidatum: Q136506564
-title: Βασίλης Χουλιαράς  
+title: Βασίλης Χουλιαράς 
+
 ![Βασίλης Χουλιαράς](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vasilios_Chouliaras.jpg/400px-Vasilios_Chouliaras.jpg)
 ---
 
