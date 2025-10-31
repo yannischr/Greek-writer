@@ -6,5 +6,5 @@ title: Βασίλης Χουλιαράς
 
 Vasilis Chouliaras
 
-![Βασίλης Χουλιαράς](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vasilios_Chouliaras.jpg/400px-Vasilios_Chouliaras.jpg)
+![Βασίλης Χουλιαράς](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vasilios_Chouliaras.jpg/400px-Vasilios_Chouliaras.jpg){: .standard-image}
 
