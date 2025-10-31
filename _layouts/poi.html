@@ -3,6 +3,17 @@ layout: default
 load_leaflet: 1
 ---
 
+<style>
+.standard-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+</style>
+
 <h1 style="float:right; font-size:39pt; color:#f1f1f1">{{page.title}}</h1>
 <h2 id="wikidata_title"></h2>
 <h3 id="wikidata_descr"></h3>
@@ -11,11 +22,7 @@ load_leaflet: 1
 
 {{ content }}
 
-<img id="wikidata_img" style="width:100%; padding-bottom:5px;" />
-
-<div id="map" style="height: 180px; width:50%; background-color:lightgrey"></div> 
-
-
+<div id="map" style="height: 180px; width:50%; background-color:lightgrey"></div>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Wikidata_Stamp_Rec_Light.svg" style="float:right; width:100px" />
 
