@@ -12,6 +12,17 @@ load_leaflet: 1
     padding-bottom: 5px;
     border-radius: 5px;
 }
+
+/* Βελτιωμένος στρογγυλεμένος χάρτης */
+#map {
+    height: 200px; 
+    width: 50%; /* <-- 50% όπως θέλετε */
+    background-color: lightgrey;
+    border-radius: 12px;
+    overflow: hidden;
+    margin: 10px 0;
+    border: 2px solid #e0e0e0;
+}
 </style>
 
 <h1 style="float:right; font-size:39pt; color:#f1f1f1">{{page.title}}</h1>
@@ -22,7 +33,7 @@ load_leaflet: 1
 
 {{ content }}
 
-<div id="map" style="height: 180px; width:50%; background-color:lightgrey"></div>
+<div id="map"></div>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Wikidata_Stamp_Rec_Light.svg" style="float:right; width:100px" />
 
