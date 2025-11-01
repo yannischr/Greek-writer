@@ -9,7 +9,7 @@ Vasilis Chouliaras
 ![Βασίλης Χουλιαράς](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vasilios_Chouliaras.jpg/400px-Vasilios_Chouliaras.jpg){: .standard-image}
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="https://www.youtube.com/watch?v=kM4jb2grMU0" 
+    <a href="https://www.youtube-nocookie.com/embed/kM4jb2grMU0" 
        target="_blank"
        style="display: inline-block; background: #ff0000; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold;">
        ▶ Δείτε το βίντεο στο YouTube
