@@ -7,3 +7,12 @@ title: Φωτεινή Τσαλίκογλου
 Fotini Tsalikoglou
 
 ![Φωτεινή Τσαλίκογλου](https://www.ianos.gr/media/Persons/0/0/0026640.jpg){: .standard-image}
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 20px 0;">
+    <iframe 
+        src="https://www.youtube.com/embed/Cj-w80sLBSU" 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" 
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
+</div>
