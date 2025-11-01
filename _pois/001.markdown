@@ -8,7 +8,9 @@ Vasilis Chouliaras
 
 ![Βασίλης Χουλιαράς](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vasilios_Chouliaras.jpg/400px-Vasilios_Chouliaras.jpg){: .standard-image}
 
-Γνωρίζοντας καλύτερα τον **Βασίλη Χουλιαρά**
+<div style="text-align: center; max-width: 800px; margin: 0 auto;">
+Γνωρίζοντας καλύτερα τον **Βασίλη Χουλιαρά** 
+</div>
 
 <div style="position: relative; padding-bottom: 37.5%; height: 0; overflow: hidden; margin: 20px auto; width: 66.67%;">
     <iframe 
