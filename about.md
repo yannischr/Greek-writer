@@ -19,7 +19,31 @@ permalink: /about/
 και να αναδείξει τη **διασύνδεση της τεχνολογίας με τον πολιτισμό**.
 
                          «Η γνώση που μοιράζεται, γίνεται πολιτισμός.»   
+<!-- Social icons with inline SVGs -->
+<ul class="social-icons">
+  <li>
+    <a href="https://twitter.com/yourhandle" aria-label="Follow us on Twitter" target="_blank" rel="noopener noreferrer">
+      <!-- Twitter SVG (from Simple Icons / official brand SVG) -->
+      <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M..." fill="currentColor"></path>
+      </svg>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/yourpage" aria-label="Visit our Facebook page" target="_blank" rel="noopener noreferrer">
+      <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M..." fill="currentColor"></path>
+      </svg>
+    </a>
+  </li>
+</ul>
 
+<style>
+.social-icons { list-style: none; padding: 0; display:flex; gap:12px; }
+.social-icons a { display:inline-flex; width:44px; height:44px; align-items:center; justify-content:center; color:#333; text-decoration:none; border-radius:6px; }
+.social-icons a:hover, .social-icons a:focus { background:#f0f0f0; color:#1da1f2; outline:2px solid #cce7ff; outline-offset:3px; }
+.social-icons svg { width:24px; height:24px; }
+</style>
 
 
 
