@@ -26,14 +26,14 @@ permalink: /about/
   <li>
     <a href="https://www.youtube.com/@%CE%95%CF%84%CE%B1%CE%B9%CF%81%CE%B5%CE%AF%CE%B1%CE%A3%CF%85%CE%B3%CE%B3%CF%81%CE%B1%CF%86%CE%AD%CF%89%CE%BD/videos" aria-label="Ακολουθείστε μας στο  Youtube" target="_blank" rel="noopener noreferrer">
       <img width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-        <path d="/assets/" fill="currentColor"></path>
+        <path d="/assets/images/youtube.png" fill="currentColor"></path>
       </img>
     </a>
   </li>
   <li>
     <a href="https://www.facebook.com/HellenicAuthorsSociety" aria-label="Επισκεφτείτε την σελίδα μας στο Facebook" target="_blank" rel="noopener noreferrer">
       <img width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-        <path d="/assets/" fill="currentColor"></path>
+        <path d="/assets/images/facebook.png" fill="currentColor"></path>
       </img>
     </a>
   </li>
