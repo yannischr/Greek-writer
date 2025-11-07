@@ -16,7 +16,33 @@ permalink: /team/
 </dl>
 ---
 
+<style>
+body {
+  background-color: #2c3e50 !important;
+  color: #333333 !important;
+  margin: 0;
+  padding: 20px;
+}
 
+.wrapper {
+  background-color: #34495e !important;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+h1, h2, h3 {
+  color: #e74c3c !important;
+}
+
+a {
+  color: #3498db !important;
+}
+
+a:hover {
+  color: #e74c3c !important;
+}
+</style>
 
 
 
