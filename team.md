@@ -12,10 +12,7 @@ permalink: /team/
     <dd>inf.dig2414@ionio.gr</dd>
     <dt><li>Ιωάννης Τσαλαφούτας</li></dt>
     <dd>inf.dig2411@ionio.gr</dd>
-
-
-    
-  </ul>
+ </ul>
 </dl>
 ---
 
