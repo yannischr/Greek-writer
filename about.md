@@ -44,6 +44,32 @@ permalink: /about/
 .social-icons a { display:inline-flex; width:44px; height:44px; align-items:center; justify-content:center; color:#333; text-decoration:none; border-radius:6px; }
 .social-icons a:hover, .social-icons a:focus { background:#f0f0f0; color:#1da1f2; outline:2px solid #cce7ff; outline-offset:3px; }
 .social-icons svg { width:24px; height:24px; }
+  body {
+  background-color: #2c3e50 !important;
+  color: #ecf0f1 !important; 
+  margin: 0;
+  padding: 20px;
+}
+
+.wrapper {
+  background-color: #34495e !important;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  color: #ecf0f1 !important;  
+}
+
+h1, h2, h3 {
+  color: #e74c3c !important;
+}
+
+a {
+  color: #3498db !important;
+}
+
+a:hover {
+  color: #e74c3c !important;
+}
 </style>
 
 
