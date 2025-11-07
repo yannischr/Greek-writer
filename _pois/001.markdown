@@ -5,7 +5,7 @@ title: Βασίλης Χουλιαράς
 ---
 
 <style>
-.wrapper strong {
+p {
     color: #ffffff !important;
 }
 </style>
