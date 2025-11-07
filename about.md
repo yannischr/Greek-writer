@@ -5,18 +5,18 @@ permalink: /about/
 ---
 
 <div class="wrapper">
-    Ο ιστότοπος <strong>Greek-writer</strong> δημιουργήθηκε με σκοπό να παρουσιάσει και να αναδείξει 
+    <p class="justified-text">Ο ιστότοπος <strong>Greek-writer</strong> δημιουργήθηκε με σκοπό να παρουσιάσει και να αναδείξει 
     τους σύγχρονους <strong>Έλληνες συγγραφείς</strong> αναγνωρισμένα μέλη της κοινότητας της Ελληνικής
-    Εταιρείας Συγγραφέων μέσα από ένα ψηφιακό περιβάλλον ανοιχτής πρόσβασης.
+    Εταιρείας Συγγραφέων μέσα από ένα ψηφιακό περιβάλλον ανοιχτής πρόσβασης.</p>
 
-    Η προσπάθεια αυτή εντάσσεται στο πλαίσιο εκπαιδευτικών και ερευνητικών δράσεων του 
+    <p class="justified-text">Η προσπάθεια αυτή εντάσσεται στο πλαίσιο εκπαιδευτικών και ερευνητικών δράσεων του 
     Προγράμματος Μεταπτυχιακών Σπουδών <strong>«Ψηφιακές Εφαρμογές και Καινοτομία»</strong> του 
     <strong>Ιονίου Πανεπιστημίου</strong> και υλοποιήθηκε με χρήση <strong>ανοιχτών δεδομένων (Wikidata)</strong> 
-    και της πλατφόρμας <strong>GitHub Pages</strong>.
+    και της πλατφόρμας <strong>GitHub Pages</strong>.</p>
 
-    Μέσα από τη συλλογή και την οργάνωση πληροφοριών για Έλληνες λογοτέχνες, 
+    <p class="justified-text">Μέσα από τη συλλογή και την οργάνωση πληροφοριών για Έλληνες λογοτέχνες, 
     το έργο επιδιώκει να προωθήσει την <strong>πολιτιστική γνώση</strong>, να ενισχύσει τον <strong>ψηφιακό εγγραμματισμό</strong>
-    και να αναδείξει τη <strong>διασύνδεση της τεχνολογίας με τον πολιτισμό</strong>.
+    και να αναδείξει τη <strong>διασύνδεση της τεχνολογίας με τον πολιτισμό</strong>.</p>
 
     <p class="quote"><i>«Η γνώση που μοιράζεται, γίνεται πολιτισμός.»</i></p>
 
@@ -85,8 +85,14 @@ permalink: /about/
 .quote {
     text-align: center;
     font-style: italic;
-    margin: 20px 0;
+    margin: 25px 0;
     color: #ecf0f1;
+}
+
+.justified-text {
+    text-align: justify;
+    line-height: 1.5;
+    margin-bottom: 20px;
 }
 
 body {
@@ -94,11 +100,12 @@ body {
     color: #ecf0f1 !important; 
     margin: 0;
     padding: 20px;
+    line-height: 1.5;
 }
 
 .wrapper {
     background-color: #34495e !important;
-    padding: 20px;
+    padding: 25px;
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.3);
     color: #ecf0f1 !important;  
