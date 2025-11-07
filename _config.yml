@@ -26,6 +26,8 @@ github_username:  yannischr
 
 # Minima theme settings
 minima:
+  locale: "el"
+  date_format: "%d/%m/%Y"
   posts_title: "Δημοσιεύσεις"
 
 # Build settings
