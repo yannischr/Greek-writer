@@ -4,6 +4,12 @@ wikidatum: Q136506564
 title: Βασίλης Χουλιαράς 
 ---
 
+<style>
+.wrapper strong {
+    color: #ffffff !important;
+}
+</style>
+
 Vasilis Chouliaras
 
 ![Βασίλης Χουλιαράς](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vasilios_Chouliaras.jpg/400px-Vasilios_Chouliaras.jpg){: .standard-image}
