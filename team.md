@@ -21,7 +21,7 @@ body {
   background-color: #2c3e50 !important;
   color: #ecf0f1 !important;
   margin: 0;
-  padding: 20px;
+  padding: 25px;
 }
 
 .wrapper {
