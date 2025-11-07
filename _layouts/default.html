@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }} - {{ page.title }}</title>
+    
+    <style>
+    /* ΒΑΣΙΚΑ ΧΡΩΜΑΤΑ ΙΣΤΟΤΟΠΟΥ */
+    body {
+        background-color: #2c3e50;
+        color: #ecf0f1;
+        margin: 0;
+        padding: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.6;
+    }
+    
+    /* HEADER */
+    .site-header {
+        background-color: #34495e;
+        padding: 20px 0;
+        border-bottom: 3px solid #e74c3c;
+    }
+    
+    .header-content {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+        text-align: center;
+    }
+    
+    .site-title {
+        color: #ecf0f1;
+        font-size: 2.5em;
+        margin: 0;
+        text-decoration: none;
+    }
+    
+    .site-nav {
+        margin-top: 15px;
+    }
+    
+    .nav-link {
+        color: #ecf0f1;
+        text-decoration: none;
+        margin: 0 15px;
+        font-size: 1.1em;
+    }
+    
+    .nav-link:hover {
+        color: #e74c3c;
+    }
+    
+    /* ΚΥΡΙΟ ΠΕΡΙΕΧΟΜΕΝΟ */
+    .main-content {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 30px 20px;
+        min-height: 60vh;
+    }
+    
+    .page-wrapper {
+        background-color: #ffffff;
+        border-radius: 10px;
+        padding: 30px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        color: #2c3e50;
+    }
+    
+    /* FOOTER */
+    .site-footer {
+        background-color: #34495e;
+        padding: 30px 0;
+        border-top: 3px solid #e74c3c;
+        text-align: center;
+    }
+    
+    .footer-content {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+        color: #ecf0f1;
+    }
+    
+    /* LINKS */
+    a {
+        color: #3498db;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color: #e74c3c;
+    }
+    
+    h1, h2, h3, h4 {
+        color: #2c3e50;
+    }
+    </style>
+</head>
+<body>
+    <!-- HEADER -->
+    <header class="site-header">
+        <div class="header-content">
+            <a href="{{ site.baseurl }}/" class="site-title">{{ site.title }}</a>
+            <nav class="site-nav">
+                <a href="{{ site.baseurl }}/" class="nav-link">Αρχική</a>
+                <a href="{{ site.baseurl }}/pois.html" class="nav-link">Σημεία Ενδιαφέροντος</a>
+                <a href="{{ site.baseurl }}/about.html" class="nav-link">Σχετικά</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- ΚΥΡΙΟ ΠΕΡΙΕΧΟΜΕΝΟ -->
+    <main class="main-content">
+        <div class="page-wrapper">
+            {{ content }}
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+        <div class="footer-content">
+            <p>{{ site.description }}</p>
+            <p>Ιόνιο Πανεπιστήμιο - ΠΜΣ Ψηφιακές Εφαρμογές και Καινοτομία</p>
+        </div>
+    </footer>
+</body>
+</html>
