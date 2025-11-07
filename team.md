@@ -19,7 +19,7 @@ permalink: /team/
 <style>
 body {
   background-color: #2c3e50 !important;
-  color: #333333 !important;
+  color: #ecf0f1 !important;  /* ΑΛΛΑΓΗ */
   margin: 0;
   padding: 20px;
 }
@@ -29,6 +29,7 @@ body {
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  color: #ecf0f1 !important;  /* ΠΡΟΣΘΗΚΗ */
 }
 
 h1, h2, h3 {
