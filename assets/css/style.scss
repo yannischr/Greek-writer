@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Χρώμα πάνω μέρους (header)
+.site-header {
+  background-color: #2c3e50;
+  border-top: 5px solid #e74c3c;
+}
+
+.site-header a {
+  color: #ecf0f1;
+}
+
+.site-header a:hover {
+  color: #e74c3c;
+}
+
+// Χρώμα κύριου περιεχομένου
+body {
+  background-color: #f8f9fa;
+  color: #333333;
+}
+
+// Χρώμα footer
+.site-footer {
+  background-color: #34495e;
+  border-top: 1px solid #bdc3c7;
+  color: #ecf0f1;
+}
