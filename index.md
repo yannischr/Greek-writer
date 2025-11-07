@@ -52,7 +52,19 @@ a:hover {
 .rss-subscribe {
   color: #ecf0f1 !important;
 }
+
+/* Κρύβει το αρχικό "Posts" και το αντικαθιστά με "Δημοσιεύσεις" */
+.post-list-heading {
+  font-size: 0 !important;
+}
+
+.post-list-heading:before {
+  content: "Δημοσιεύσεις";
+  font-size: 1.8rem !important;
+  color: #e74c3c !important;
+}
 </style>
+
 <div class="hero-image">
     <img src="https://www.2045.gr/wp-content/uploads/2022/03/book-at-the-internet-age_07-1024x452.jpg" 
          alt="Βιβλίο στην ψηφιακή εποχή" 
@@ -90,3 +102,15 @@ a:hover {
     }
 }
 </style>
+
+<script>
+// JavaScript λύση αν το CSS δεν δουλέψει
+document.addEventListener('DOMContentLoaded', function() {
+    const headings = document.querySelectorAll('h2');
+    headings.forEach(heading => {
+        if (heading.textContent.includes('Posts')) {
+            heading.textContent = 'Δημοσιεύσεις';
+        }
+    });
+});
+</script>
