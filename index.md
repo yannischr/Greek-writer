@@ -53,3 +53,40 @@ a:hover {
   color: #ecf0f1 !important;
 }
 </style>
+<div class="hero-image">
+    <img src="https://www.2045.gr/wp-content/uploads/2022/03/book-at-the-internet-age_07-1024x452.jpg" 
+         alt="Βιβλίο στην ψηφιακή εποχή" 
+         class="responsive-image">
+</div>
+
+<style>
+.hero-image {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto 30px auto;
+    text-align: center;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.responsive-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Responsive design για κινητά */
+@media (max-width: 768px) {
+    .hero-image {
+        margin: 0 auto 20px auto;
+        border-radius: 6px;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-image {
+        margin: 0 auto 15px auto;
+    }
+}
+</style>
