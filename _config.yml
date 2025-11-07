@@ -24,6 +24,10 @@ url: "yannischr.github.io" # the base hostname & protocol for your site, e.g. ht
 # twitter_username: jekyllrb
 github_username:  yannischr
 
+# Minima theme settings
+minima:
+  posts_title: "Δημοσιεύσεις"
+
 # Build settings
 markdown: kramdown
 theme: minima 
